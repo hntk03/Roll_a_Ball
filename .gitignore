@@ -1,0 +1,11 @@
+*.swp
+.DS_Store
+__pycache__
+.ipynb_checkpoints
+
+# Microsoft Backup files
+~$*.doc*
+~$*.ppt*
+
+.vs
+.vsconfig
